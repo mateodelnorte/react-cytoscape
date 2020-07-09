@@ -50,7 +50,7 @@
     "webpack-dev-server": "^2.9.4"
   },
   "dependencies": {
-    "cytoscape": "^3.2.5",
+    "cytoscape": "https://github.com/fishtown-analytics/cytoscape.js.git#feature/cubic-bezier-edges",
     "cytoscape-cola": "^2.0.0",
     "cytoscape-dagre": "^2.1.0"
   }
